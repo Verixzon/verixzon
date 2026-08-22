@@ -1,4 +1,9 @@
+## VERIXZON
 ## Hi there 👋
+
+Official portfolio website for VERIXZON.
+
+🌐 **Live Website:** https://verixzon.netlify.app
 
 I'm a Computer Engineering student, Web Developer, and aspiring Software Engineer.
 

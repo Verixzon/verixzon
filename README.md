@@ -36,4 +36,6 @@ I'm a Computer Engineering student, Web Developer, and aspiring Software Enginee
 - LinkedIn: https://www.linkedin.com/in/verixzon-verixzon-674309428
 - GitHub: https://github.com/Verixzon
 - Portfolio: https://verixzon.netlify.app
--
+-Instagram link:  https://www.instagram.com/verixzon?utm_source=qr&igsi=NDB6czF1MGMxeXhn
+-Twitter: https://x.com/Verixzon_
+-Tiktok: tiktok.com/@verixzon_

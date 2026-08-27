@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://verixzon.netlify.app/sitemap.xml
